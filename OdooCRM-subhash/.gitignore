@@ -1,0 +1,22 @@
+#Compiled .class files, reports, packaging
+target/*
+
+# ExcelReport
+reports/excelreport/*
+
+# Log4j Html Report
+reports/log4jhtml/*
+
+# log
+reports/logs/*
+
+# screenshots
+screenshots/*
+
+#allure report
+allure-results/*
+
+#testNG
+test-output/*
+
+/target/
